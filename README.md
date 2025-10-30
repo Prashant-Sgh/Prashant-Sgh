@@ -2,30 +2,7 @@
 
 #### 
 - [APOD Viewer](https://github.com/Prashant-Sgh/APOD)
-
----
-
-## Hi, I'm Prashant  
- Android Developer | Native Kotlin Specialist | MVVM & Jetpack Compose
-
-I design and build high-quality Android apps — from MVP prototypes to fully polished products —  
-using **modern Android architecture** and a **user-first design approach**.
-
----
-
-### 🛠 What I Do
-- 📱 Native Android apps with **Kotlin** & **Jetpack Compose**
-- 🌐 API integrations with **Retrofit** & **Coroutines**
-- 🎨 Polished UI following **Material Design 3**
-- 🔥 Firebase integration (Auth, Firestore, Notifications)
-- 📦 Play Store-ready builds
-
----
-
-### My Niche
-I focus on:
-- **Cool Apps** — Educational, useful tool and intersting apps  
-- **AI-powered Apps** — Productivity tools, smart assistants, and automation-focused apps
+- [Morse Link](https://github.com/Prashant-Sgh/Morse_Link)
 
 ---
 
@@ -37,6 +14,13 @@ offline saving, and modern MVVM architecture.
 
 **Tech Stack:**  
 `Kotlin` · `Jetpack Compose` · `MVVM` · `Room` · `Flow` · `Retrofit` · `Coil`
+
+
+#### [Morse Link](https://github.com/Prashant-Sgh/Morse_Link)
+A simple app that can convert your string text message into Morse code and transmit it using your phone's speaker and flash-light.
+
+**Tech Stack:**  
+`Kotlin` · `Jetpack Compose` · `MVVM` · `Camera api` · `State management` · `Jetpack navigation` · `Android Audio Track`
 
 ---
 
