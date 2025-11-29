@@ -6,7 +6,7 @@
 
 ---
 
-### Featured Project
+### Project
 
 #### [APOD Viewer](https://github.com/Prashant-Sgh/APOD)
 NASA’s Astronomy Picture of the Day, beautifully presented with **Jetpack Compose**,  
@@ -24,7 +24,7 @@ A simple app that can convert your string text message into Morse code and trans
 
 ---
 
-### FLUTTER projects
+### Flutter projects
 
 - [Weather app](https://github.com/Prashant-Sgh/WeatherApp)
 - [Quiz](https://github.com/Prashant-Sgh/Quiz-flutter-app)
